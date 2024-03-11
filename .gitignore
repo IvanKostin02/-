@@ -452,3 +452,11 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+
+bin/Debug/net6.0/Lecture1.dll
+bin/Debug/net6.0/Lecture1.pdb
+obj/Debug/net6.0/Lecture1.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/Lecture1.assets.cache
+obj/Debug/net6.0/Lecture1.dll
+obj/Debug/net6.0/Lecture1.pdb
