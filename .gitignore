@@ -468,5 +468,5 @@ Lecture1/obj/Debug/net6.0/Lecture1.assets.cache
 Lecture1/obj/Debug/net6.0/Lecture1.dll
 Lecture1/obj/Debug/net6.0/Lecture1.pdb
 
-bin
-obj
+*.bin
+*.obj
